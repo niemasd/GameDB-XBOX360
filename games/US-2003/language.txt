@@ -1,0 +1,6 @@
+Danish
+Dutch
+English
+Finnish
+Norwegian
+Swedish

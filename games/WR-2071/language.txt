@@ -1,0 +1,10 @@
+Danish
+Dutch
+English
+French
+German
+Italian
+Polish
+Portuguese
+Russian
+Spanish

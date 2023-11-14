@@ -1,0 +1,8 @@
+Danish
+Dutch
+English
+French
+Norwegian
+Portuguese
+Spanish
+Swedish
