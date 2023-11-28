@@ -9,4 +9,5 @@ Microsoft XBOX 360, part of [GameDB](https://github.com/niemasd/GameDB).
 
 # Sources
 * [MiSTer Addons](https://misteraddons.com/)
+* [MobyGames](https://www.mobygames.com/)
 * [Redump](http://redump.org)
